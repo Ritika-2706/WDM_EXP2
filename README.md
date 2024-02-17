@@ -42,6 +42,15 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+## Buying 
+![Screenshot (87)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/25405d3d-1cca-4317-baec-2c34cbf62fea)
+## Banking
+![Screenshot (88)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/451419e5-0c3c-401c-b505-f1b7bc490fb8)
+## Employee
+![Screenshot (89)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/395584a1-8603-498c-b37a-a96f27f5b729)
+
+
+
 
 
 ### Procedure for Association Rules:
@@ -53,5 +62,14 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+## Buying 
+![Screenshot (91)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/5b2a2955-9b58-4323-b6bb-547ccc1c5442)
+
+## Banking
+![Screenshot (90)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/54982a31-8ee5-4ed4-bb3e-f123dcd12e79)
+
+## Employee
+![Screenshot (92)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/a91643b3-a6bd-4383-9954-7fcee36c896b)
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
