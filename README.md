@@ -43,11 +43,13 @@ G40,high,yes,excellent,yes
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 ## Buying 
-![Screenshot (87)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/25405d3d-1cca-4317-baec-2c34cbf62fea)
+![Screenshot (87)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/300e8fa1-26d6-4368-af5b-5167650f4036)
+
 ## Banking
-![Screenshot (88)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/451419e5-0c3c-401c-b505-f1b7bc490fb8)
+![Screenshot (88)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/b3550501-c5bf-42ec-993f-12efd712f1d2)
+
 ## Employee
-![Screenshot (89)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/395584a1-8603-498c-b37a-a96f27f5b729)
+![Screenshot (89)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/c71981ec-bafb-4a0d-8b3e-fec757512b76)
 
 
 
@@ -63,13 +65,16 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 ## Buying 
-![Screenshot (91)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/5b2a2955-9b58-4323-b6bb-547ccc1c5442)
+![Screenshot (91)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/72695275-86b1-4aea-9240-9cb47e809c00)
+
 
 ## Banking
-![Screenshot (90)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/54982a31-8ee5-4ed4-bb3e-f123dcd12e79)
+![Screenshot (90)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/0c5b6971-4a7c-4f01-b65b-2b522fb5110e)
+
 
 ## Employee
-![Screenshot (92)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/a91643b3-a6bd-4383-9954-7fcee36c896b)
+![Uploading Screenshot (92).png…]()
+
 
 ### RESULT: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
