@@ -73,7 +73,8 @@ G40,high,yes,excellent,yes
 
 
 ## Employee
-![Uploading Screenshot (92).png…]()
+![Screenshot (92)](https://github.com/Ritika-2706/WDM_EXP2/assets/93427238/65767a77-084d-4771-84f9-7ae88f8a3310)
+
 
 
 ### RESULT: 
